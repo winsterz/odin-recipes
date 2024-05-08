@@ -1,0 +1,27 @@
+/* For the index.html */
+
+.catalog {
+    background-color: lightblue;
+    padding: 6px;
+    margin: 8px 0;
+}
+
+#header {
+    text-align: center;
+    padding: 8px;
+    margin: 8px;
+    background: white;
+}
+
+.navbar {
+    display: flex;
+}
+
+.bullet {
+    font-size: 20px;
+    padding: 6px;
+    border: 2px dotted black;
+    display: inline-block;
+    margin: auto;
+    background: white;
+}

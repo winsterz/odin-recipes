@@ -1,0 +1,22 @@
+/* For the recipes pages */
+
+.header {
+    color: yellowgreen;
+}
+
+.main {
+    background-color: red;
+}
+
+#one {
+    background-color: black;
+}
+
+.main #one {
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+* {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
